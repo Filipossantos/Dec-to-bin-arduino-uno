@@ -3,7 +3,7 @@
  * GccApplication1.c
  *
  * Created: 2021-07-26 10:54:13
- * Author : domis_000
+ * Author : Filip Michalski
  */ 
 #define F_CPU 16000000UL
 #include <avr/io.h>
