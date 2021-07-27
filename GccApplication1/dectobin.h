@@ -2,7 +2,7 @@
  * IncFile1.h
  *
  * Created: 2021-07-27 14:58:53
- *  Author: domis_000
+ *  Author: Filip Michalski
  */ 
 
 
