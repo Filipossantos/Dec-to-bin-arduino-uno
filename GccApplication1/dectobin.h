@@ -1,5 +1,5 @@
 /*
- * IncFile1.h
+ * dectobin.h
  *
  * Created: 2021-07-27 14:58:53
  *  Author: Filip Michalski
